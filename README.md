@@ -44,7 +44,7 @@ pip install face_recognition opencv-python
 ```
 Get the code by cloning this repository:
 ```bash
-git clone https://github.com/your-github-username/face-recognition-system.git
+https://github.com/Nikhil010301/Advance_face_recognition.git
 ```
   
 <br>
